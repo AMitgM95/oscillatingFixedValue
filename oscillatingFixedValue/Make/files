@@ -1,0 +1,3 @@
+oscillatingFixedValueFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/liboscillatingFixedValue
